@@ -1,0 +1,11 @@
+@import '../../node_modules/swiper/swiper-bundle';
+
+.test{
+	text-align: center;
+	&_box{
+		margin: 0;
+	}
+}
+body{
+	margin: 0;
+}
